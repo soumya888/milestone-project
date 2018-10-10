@@ -1,0 +1,15 @@
+font-family: 'Source Code Pro', monospace;
+
+
+font-family: 'Montserrat', sans-serif;
+
+I am passionate about the web.
+
+I started taking Skillcrush classes after getting recommendations from my cat. Without her constant encouragement I would have never made it to be a professional Web Developer. One day I will make the Internet a safe place for all cats, where no cat will fear being meme-ified and exploited for their cuteness.
+
+Can't wait to work with you!
+
+header - 800
+portfolio - 1550
+about - 550
+contact - 450

@@ -1,0 +1,213 @@
+/***** BASE STYLES ****/
+
+body{
+  font-family: 'Montserrat', sans-serif;
+  color: #ffffff;
+}
+
+h3{
+  font-family: 'Source Code Pro', monospace;
+  font-size: 36px;
+  color: #fa0075;
+  text-align: center;
+  padding-top: 35px;
+  margin-top: 0;
+}
+
+h4{
+  font-size: 24px;
+}
+
+p{
+  font-weight: normal;
+  font-size: 24px;
+}
+
+/***** GRID *****/
+.full-width{
+  width:1200px;
+  margin:0px auto;
+}
+
+.half-width{
+  width: 600px;
+  float: left;
+  margin: 0 auto;
+}
+
+.third-width{
+  width: 400px;
+  float: left;
+}
+
+/***** Header section *****/
+h2{
+  font-family: 'Montserrat', sans-serif;
+  font-size: 30px;
+  padding: 25px;
+
+  float: left;
+}
+
+nav{
+  float: right;
+  padding: 35px;
+}
+
+nav ul li{
+  display: inline-block;
+
+}
+
+nav ul li a{
+  text-decoration: none;
+  font-size: 18px;
+  padding-left: 45px;
+  color: white;
+  font-family: 'Montserrat', sans-serif;
+  font-weight: bold;
+
+
+}
+
+header{
+  height: 768px;
+  background: url('../img/hero-background.png');
+  background-size: cover;
+  background-position: center bottom;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+}
+
+h1{
+  clear: both;
+  font-family: 'Source Code Pro', monospace;
+  font-size: 72px;
+  padding-top: 150px;
+}
+
+h1 span{
+  color: #fa0075;
+}
+
+/**** Services section ****/
+
+#services{
+  background-color: #f9fcf6;
+  height: 600px;
+}
+
+#services h4{
+  text-align: center;
+  color: black;
+}
+
+#services p{
+  text-align: center;
+  color: black;
+}
+/**** Portfolio section ****/
+
+#portfolio{
+  background-color: #1f202b;
+  height: 1450px;
+}
+
+#portfolio img{
+  border: 1px solid #b7b7b7;
+}
+
+#first-project{
+  padding-top: 65px;
+}
+
+#first-project h4{
+  margin-top: 0;
+  margin-left: 45px;
+}
+
+#first-project p{
+  margin-left: 45px;
+}
+
+#second-project{
+  clear: both;
+  padding-top: 65px;
+  text-align: right;
+}
+
+#second-project h4{
+  margin-top: 0;
+  margin-right: 45px;
+}
+
+#second-project p{
+  margin-right: 45px;
+}
+
+#third-project{
+  clear: both;
+  padding-top: 65px;
+}
+
+#third-project h4{
+  margin-top: 0;
+  margin-left: 45px;
+}
+
+#third-project p{
+  margin-left: 45px;
+}
+/*** About section ***/
+
+#about{
+  height: 550px;
+  background: url('../img/nordwood-themes-483520-unsplash.jpg');
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center bottom;
+  background-attachment: fixed;
+}
+
+#about h4{
+  color: black;
+}
+
+#about p{
+  color: black;
+}
+
+/*** Footer section ***/
+
+#contact{
+  height:450px;
+  background-color: #1f202b;
+}
+
+#contact h4{
+  text-align: center;
+}
+
+#contact p{
+  text-align: center;
+}
+
+#contact ul{
+  text-align: center;
+  padding-left: 0;
+}
+
+#contact li{
+  display: inline-block;
+  text-decoration: none;
+  padding: 0 25px 0 25px;
+}
+
+h5{
+  clear: both;
+  text-align: center;
+  font-weight: normal;
+  font-size: 18px;
+  padding-top: 100px;
+  padding-bottom: 5px;
+}
